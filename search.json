@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "TREVOR HO",
-    "section": "",
-    "text": "I am currently a junior at the Flower Mound High School. I am on Track and Field team running hurdles and mid-range. I love sports and play basketball and volleyball."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "I love music and sports. My favorite game is NBA 2026."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "TREVOR HO",
+    "section": "About me",
+    "text": "About me\nI am currently a junior at the Flower Mound High School. I am on Track and Field team running hurdles and mid-range. I love sports and play basketball and volleyball."
   },
   {
     "objectID": "sports.html",
